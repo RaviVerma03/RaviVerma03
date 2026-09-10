@@ -1,5 +1,5 @@
 # About Me:
-Skilled and detail-oriented Front-End Developer with 6+ years of experience building responsive, user-focused web applications using React.js, JavaScript, TypeScript, HTML5, CSS3, Redux, React Native, Next.js, Bootstrap, and Tailwind CSS. Proficient in component-based architecture, state management, REST API integration, responsive design, performance optimization, accessibility, and Agile methodologies. Experienced in building scalable, maintainable, and reusable frontend applications across diverse domains, including travel (Marriott), logistics (FedEx), and government tourism (Incredible India). Strong collaborator who has led knowledge transfer (KT) sessions, including important React topics.
+Skilled and detail-oriented Front-End Developer with 6.5+ years of experience building responsive, user-focused web applications using React.js, JavaScript, TypeScript, HTML5, CSS3, Redux, React Native, Next.js, Bootstrap, and Tailwind CSS. Proficient in component-based architecture, state management, REST API integration, responsive design, performance optimization, accessibility, and Agile methodologies. Experienced in building scalable, maintainable, and reusable frontend applications across diverse domains, including travel (Marriott), logistics (FedEx), and government tourism (Incredible India). Strong collaborator who has led knowledge transfer (KT) sessions, including important React topics.
 
 Experienced with modern frontend development practices including React Hooks, Context API, Redux Toolkit, Axios, React Router, API integration, code splitting, lazy loading, and frontend performance optimization. Familiar with Next.js, React Native, TypeScript, Webpack, Module Federation, testing, CI/CD, and modern frontend tooling.
 
@@ -37,5 +37,11 @@ Passionate about continuously learning modern frontend technologies and building
 ![Ravi's GitHub stats](./profile/stats.svg)
 
 ![Top Languages](./profile/top-langs.svg)
+
+## 🚀 Most Used Frameworks
+
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=20232A)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
